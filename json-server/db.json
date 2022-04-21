@@ -1,0 +1,27 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "star wars a new hope"
+    },
+    {
+      "id": 2,
+      "title": "empire"
+    },
+    {
+      "id": 3,
+      "title": "return of the jedi"
+    },
+    {
+      "title": "indiana jones",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ]
+}
